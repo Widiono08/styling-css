@@ -1,0 +1,136 @@
+@font-face {
+    font-family: regular ;
+    src: url(./Merchant\ Copy\ Doublesize\ Regular.ttf);
+}
+.container {
+    font-family: regular ;
+}
+.header p{
+    text-align: center;
+}   
+
+.header {
+    text-align: center;
+}
+.desc1 {
+    margin-right: 73px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.desc2 {
+    margin-left: 10px;
+}
+
+.desc3 {
+    margin-top: -10px;
+    margin-right: 96px;
+}
+.mt-10 { 
+    margin-top: -10px;
+}
+.row1 {
+    display: flex;
+    flex-direction: row;
+}
+.desc4 {
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.desc5 {
+    margin-right: 96px;
+}
+
+.row2 {
+    display: flex;
+    flex-direction: row;
+}
+.desc6 {
+    margin-left: 10px;
+}
+.desc7 {
+    margin-right: 96px;
+}
+
+.row3 {
+    display: flex;
+    flex-direction: row;
+}
+.desc8 {
+    margin-left: 10px;
+}
+.desc9 {
+    margin-right: 28px;
+}
+
+.row4 {
+    display: flex;
+    flex-direction: row;
+}
+.desc10 {
+    margin-left: 10px;
+}
+.desc11 {
+    margin-right: 40px;
+}
+
+.row5 {
+    display: flex;
+    flex-direction: row;
+}
+.desc12 {
+    margin-left: 10px;
+}
+.desc13 {
+    margin-right: 280px;
+}
+.row6 {
+    display: flex;
+    flex-direction: row;
+}
+
+.desc15 {
+    margin-right: 235px;
+}
+.row7 {
+    display: flex;
+    flex-direction: row;
+}
+
+.desc17 {
+    margin-right: 383px;
+}
+.row8 {
+    display: flex;
+    flex-direction: row;
+}
+
+.desc19 {
+    margin-right: 283px;
+}
+.row9 {
+    display: flex;
+    flex-direction: row;
+}
+
+.desc21 {
+    margin-right: 283px;
+}
+.row10 {
+    display: flex;
+    flex-direction: row;
+}
+
+.desc23 {
+    margin-right: 306px;
+}
+.row11 {
+    display: flex;
+    flex-direction: row;
+}
+
+.Footer p {
+    text-align: center;
+}
